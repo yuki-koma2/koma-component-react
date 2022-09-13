@@ -1,6 +1,6 @@
 {
   "name": "@u-koma/koma-component-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "this is a ui component for react project",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
