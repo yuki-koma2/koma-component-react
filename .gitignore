@@ -25,4 +25,11 @@ yarn-error.log*
 /.idea/vcs.xml
 /.idea/*
 
-/.yarn/
+.yarn/*
+#!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
